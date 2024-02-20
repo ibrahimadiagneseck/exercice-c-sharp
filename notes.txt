@@ -1,0 +1,7 @@
+dotnet new console -o ./CsharpProjects/TestProject
+
+dotnet build
+
+dotnet run
+
+dotnet new console
